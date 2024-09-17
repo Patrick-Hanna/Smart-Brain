@@ -13,6 +13,8 @@ In the project directory, you can run:
 
 Application Opens [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+Link to live project: https://smart-brain-io.onrender.com
+
 ![Screenshot 2024-08-30 152613](https://github.com/user-attachments/assets/2b7959b9-aba7-4f69-bf81-b3dc45772ead)
 
 
